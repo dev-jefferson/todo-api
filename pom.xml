@@ -11,7 +11,8 @@
 	<groupId>br.com.jhsgdev</groupId>
 	<artifactId>todo-list</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
+
 	<name>todo-list</name>
 	<description>lista de tarefas</description>
 
